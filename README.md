@@ -1,10 +1,24 @@
 # Atividades-WEB-I-HTML
 
 
+# Questões Introdutórias de HTML
 
+Este repositório contém **questões introdutórias sobre HTML**, elaboradas pelo **Professor Tomaz**. O material é voltado para iniciantes que estão começando a aprender HTML e desejam reforçar os conceitos básicos de construção de páginas web.
 
+## Objetivo
 
+O objetivo deste repositório é ajudar os alunos a entender a estrutura básica do HTML, aprendendo desde as tags principais até as melhores práticas para escrever código limpo e semântico.
 
+## O que você vai aprender
+
+Essas questões cobrem os seguintes tópicos principais:
+
+- Estrutura básica de uma página HTML
+- Uso das tags principais (como `<html>`, `<head>`, `<body>`, etc.)
+- Formatação de textos (parágrafos, títulos, listas)
+- Como inserir links e imagens
+- Como trabalhar com tabelas
+ dentre outras 
 
 
 [Atividade 1](Atividade01.html)<br>
