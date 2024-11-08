@@ -3,7 +3,7 @@
 
 # Questões Introdutórias de HTML
 
-Este repositório contém **questões introdutórias sobre HTML**, elaboradas pelo **Professor Tomaz Maia **. O material é voltado para iniciantes que estão começando a aprender HTML e desejam reforçar os conceitos básicos de construção de páginas web.
+Este repositório contém **questões introdutórias sobre HTML**, elaboradas pelo <b>Professor Tomaz Maia</b> . O material é voltado para iniciantes que estão começando a aprender HTML e desejam reforçar os conceitos básicos de construção de páginas web.
 
 ## Objetivo
 
