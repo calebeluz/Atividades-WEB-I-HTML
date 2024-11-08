@@ -18,7 +18,7 @@ Essas questões cobrem os seguintes tópicos principais:
 - Formatação de textos (parágrafos, títulos, listas)
 - Como inserir links e imagens
 - Como trabalhar com tabelas
-- dentre outras  
+- Dentre outras 
 
 
 [Atividade 1](Atividade01.html)<br>
